@@ -41,7 +41,7 @@ See the above repository for updates as well as full license text. */
 
 #identity-box{ border: none !important }
 
-#urlbar:not(:hover) #identity-box{ background-image: radial-gradient(closest-side circle at 16px, orange 10%,transparent 35% ); }
+#urlbar:not(:hover) #identity-box{ background-image: radial-gradient(closest-side circle at 16px, black 10%,transparent 35% ); }
 #urlbar:not(:hover) #identity-box.verifiedIdentity{ background-image: radial-gradient(closest-side circle at 16px, lime 10%,transparent 35% ); }
 #urlbar:not(:hover) #identity-box > *{ opacity: 0 }
 /*
